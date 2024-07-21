@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fallashi
 - 👀 I’m interested in Japanese, Godot (gdscript) and making retro chiptune music!
-- 🌱 I’m currently learning gdscript 
-- 💞️ I’m looking to collaborate on making games
-- 📫 How to reach me (Discord = @Fallashi)
+- 🌱 I’m currently learning html/python
+- 💞️ I’m looking to collaborate on making games and learning to web developing
+- 📫 How to reach me (Discord = @kumoiji) or email (Gmail = kumoiji54@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont like milk
 
